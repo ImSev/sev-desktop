@@ -78,6 +78,11 @@ example:
 
 ![image](https://github.com/ImSev/sev-desktop/assets/121708436/6a3a84dc-513d-4109-93a2-0b0d3a70ebd8)
 
+> to make a widget to stuck in one place, right click on the widget then go to settings then uncheck draggable
+
+example:
+
+![image](https://github.com/ImSev/sev-desktop/assets/121708436/fb42350a-ad43-480c-8837-d0a4d6d7b8b0)
 
 
 
