@@ -2,6 +2,13 @@
   How To Install Skin?
 </h1>
 
+# Links:
+[Install Skin](https://github.com/ImSev/sev-desktop/blob/main/Setup.md#install-skin)
+
+[Setup](https://github.com/ImSev/sev-desktop/blob/main/Setup.md#setup)
+
+[Help](https://github.com/ImSev/sev-desktop/blob/main/Setup.md#help)
+
 # Install Skin
 > Click On The [Skins Name].rmskin <br \>
 
