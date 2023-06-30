@@ -5,7 +5,8 @@
 
 # Link:
 [Requirements](https://github.com/ImSev/sev-desktop#requirements)  <br />
-[Skins](https://i.postimg.cc/Kc7tK8Jj/image.png)
+[Skins](https://github.com/ImSev/sev-desktop#skins) <br />
+[Setup](https://github.com/ImSev/sev-desktop)
 
 
 # Before:
