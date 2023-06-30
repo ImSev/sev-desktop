@@ -4,8 +4,8 @@
 </h1>
 
 # Link:
-[Requirements](Requirements)
-[Requirements](https://i.postimg.cc/Kc7tK8Jj/image.png)
+[Requirements](https://github.com/ImSev/sev-desktop#requirements)  <br />
+[Skins](https://i.postimg.cc/Kc7tK8Jj/image.png)
 
 
 # Before:
@@ -31,6 +31,7 @@ a live wallpaper have to be gif or mp4
 |     1| moewalls.com |
 |     2| mylivewallpapers.com    |
 
+# Skins
 <summary>Rainmeter skin:</summary>
 here is some rainmeter skin that i used
 you can download the skin from https://visualskins.com/
