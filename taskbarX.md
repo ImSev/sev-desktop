@@ -2,6 +2,11 @@
   How To Have Taskbar Like Me
 </h1>
 
+# Links:
+[Install TaskbarX](https://github.com/ImSev/sev-desktop/blob/main/taskbarX.md#install-taskbarx)
+
+[Setup](https://github.com/ImSev/sev-desktop/blob/main/taskbarX.md#setup)
+
 # Install TaskbarX
 [Click Here](https://apps.microsoft.com/store/detail/taskbarx/9PCMZ6BXK8GH?hl=en-us&gl=us)
 
