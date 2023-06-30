@@ -1,16 +1,27 @@
+<h1 align="center">
+  Sev Desktop<br\>
+  A full guide on how to customized your desktop to look like mine
+</h1>
+
+# Link:
+[Requirements](Requirements)
+[Requirements](https://i.postimg.cc/Kc7tK8Jj/image.png)
+
+
 # Before:
 <img alt="before" src="https://i.ibb.co/ydKrrY9/image.png">
-# After:
-<img alt="after" src="https://i.ibb.co/bJnVXp8/image.png">
 
-# How To Do:
+# After:
+<img alt="after" src="https://i.postimg.cc/Kc7tK8Jj/image.png">
+
+# Requirements:
 First, you need to install everything listed here
 | List | Programs |
 |-----:|-----------|
 |     1| Lively Wallpaper|
 |     2| Rainmeter    |
 
-# Requirements:
+# Wallpapers:
 <summary>Wallpaper:</summary>
 here is some website for u to get live wallpaper
 a live wallpaper have to be gif or mp4
@@ -22,7 +33,7 @@ a live wallpaper have to be gif or mp4
 
 <summary>Rainmeter skin:</summary>
 here is some rainmeter skin that i used
-you can download
+you can download the skin from https://visualskins.com/
 
 | List | Skins |
 |-----:|-----------|
