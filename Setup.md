@@ -10,7 +10,7 @@
 [Help](https://github.com/ImSev/sev-desktop/blob/main/Setup.md#help)
 
 # Install Skin
-> Click On The [Skins Name].rmskin <br \>
+> Click On The [Skins Name].rmskin
 
 Example:
 
