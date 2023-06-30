@@ -6,8 +6,8 @@
 # Link:
 [Requirements](https://github.com/ImSev/sev-desktop#requirements)  <br />
 [Skins](https://github.com/ImSev/sev-desktop#skins) <br />
-[Setup](https://github.com/ImSev/sev-desktop/blob/main/Setup.md)
-[Setup](https://github.com/ImSev/sev-desktop/blob/main/taskbarX.md)
+[Setup](https://github.com/ImSev/sev-desktop/blob/main/Setup.md) <br />
+[TaskbarX](https://github.com/ImSev/sev-desktop/blob/main/taskbarX.md)
 
 
 # Before:
